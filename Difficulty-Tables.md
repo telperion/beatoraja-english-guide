@@ -9,7 +9,7 @@
 
 ----------
 # Difficulty Rating System
-**Note:** This section is mainly about the 7keys playmode. Other playmodes, like 9keys (pms) or 14keys (double play) have different rating systems.
+**Note:** This section is mainly about the 7keys playmode. Other playmodes, like 9keys (pms) or [14keys (double play)](Difficulty-Tables-14key) have different rating systems.
 
 There are multiple different scales used to rate BMS songs. The Normal (☆), Insane (★), Overjoy (★★), Satellite (**sl**) and Stella (**st**) scales are the most common standard scales.
 
