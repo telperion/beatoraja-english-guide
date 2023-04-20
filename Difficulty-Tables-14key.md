@@ -3,7 +3,7 @@
 - [Recommended Difficulty Tables](#recommended-difficulty-tables)
 
 ----------
-# Difficulty Rating System
+# Difficulty Rating System (14keys)
 **Note:** This page focuses on tables for the 14keys (double play) playmode. For a general introduction to tables and courses, or to browse recommendations for 7keys (single play) mode, see [Difficulty Tables](Difficulty-Tables).
 
 Like 7keys, there are multiple different scales used to rate 14keys charts for BMS songs. The Normal (☆), Insane (★), Overjoy (★★), and Satellite (**DPsl**) are the most common standard scales, and the progression of difficulty between them is similar to their counterparts in 7key mode.
@@ -71,7 +71,7 @@ At this range, difficulty tables may not be necessary. Simply playing by the cha
   - Includes GENOSIDE 2018 normal dan courses (more or less parallel to IIDX 初段～十段)
 - [☆: sagoo's upper-normals table "\_(┐「ε:)\_\[DのPの難易度表\]\_(:3」∠)\_"](http://bmsagoo.soudesune.net/list_dpnodp.html)
   - Only covers ☆9~☆12, but highly recommended for players challenging that range, because sagoo subcategorizes the charts by matching the popular decimal breakdown presented by [SNJ@KMZS](https://zasa.sakura.ne.jp/dp/)
-- [白: kuro's curated table "通常DP難易度表"](http://dpbmschart.web.fc2.com/normal-chart/normal_chart.html)
+- [白: DP curated table "通常DP難易度表"](http://dpbmschart.web.fc2.com/normal-chart/normal_chart.html)
   - Only covers ☆7~☆12
 
 #### Variety tables:
@@ -91,7 +91,7 @@ Covers levels ☆11 and up.
 - [★: DP Insane](http://dpbmsdelta.web.fc2.com/table/insane.html)
   - Includes GENOSIDE 2018 insane dan courses (IIDX 十段 and up; IIDX 皆伝 roughly corresponds to DP発狂七段, and IIDX 極皆伝 to DP発狂九段)
   - Charts in the DP Insane table tend to be rougher around the edges and much older than DP Satellite selections
-- [黒: kuro's curated table "DPBMS黒難易度表(発狂)"](http://dpbmschart.web.fc2.com/normal-chart/normal_chart.html)
+- [黒: DP curated table "DPBMS黒難易度表(発狂)"](http://dpbmschart.web.fc2.com/normal-chart/normal_chart.html)
 - [**nya**★: にゃむ's curated table "NY4M難易度表(仮)"](https://nyamdxy.web.fc2.com/table_ny4m_dp.html)
 
 #### Variety tables:
